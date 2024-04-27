@@ -4,4 +4,4 @@ headers = {'Authorization': f'Bearer {secret_key}'}
 sbpMerchantId = 'MA622976'
 user_file_path = 'users.csv'
 admin_file_path = 'admins.csv'
-bot_key = '7003654851:AAFANPq08zvN6nNE66r6bPHwAfCrJiZuAAU'
+bot_key = '7144770165:AAHc5K6nj7yZW4_D0tyIuBjyi9eEWDVpuws'
